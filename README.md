@@ -22,3 +22,8 @@ commit 7868fd31ead3511e5f5e1859aaaa87137bd71d6c
 
 Author: Vaharyk <59020411+Vaharyk@users.noreply.github.com>
 Date:   Wed Dec 18 18:38:51 2019 +0200
+
+
+#### 3. 
+
+За допомогою команди git checkout -b bransch2 створив нову гілку і переключився на неї. 
